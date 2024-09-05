@@ -10,7 +10,7 @@ body {
   align-items: center;
   height: 230vh;
 
-    background-image: url('https://www.frontconsulting.com/wp-content/uploads/2016/11/fondo_formulario3.jpg'); /* Cambia la ruta a la imagen */
+    background-image: url(''); /* Cambia la ruta a la imagen */
   background-size: cover; /* Hace que la imagen cubra toda la pantalla */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
   background-position: center center; /* Centra la imagen */
